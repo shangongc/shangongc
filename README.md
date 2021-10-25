@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning C language and Python.
 - 💞️ I’m looking to collaborate on communication module and daily life.
-- 📫 How to reach me mess1808@outlook.com.
+- 📫 How to reach me shangongc@outlook.com.
 
 <!---
 shangongc/shangongc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
